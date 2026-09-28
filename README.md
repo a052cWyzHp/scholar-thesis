@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # S.C.H.O.L.A.R. PHP foundation
 
 Plain PHP pages for local XAMPP development, without styling or database access.
@@ -23,3 +24,6 @@ The earlier `config/database.php` and `includes/database.php` remain unused. Nei
 3. Fill in the thesis query TODO with prepared filters, permission checks and soft-delete exclusions. Return title, authors, publication_year, department, program and workflow_status fields. Add confirmed filter options and pagination.
 
 Database setup and SQL imports are separate future work. No records, accounts, or workflow statuses are created by these pages.
+=======
+# SCHOLAR
+>>>>>>> 7b77166355d0c528d1a75b723d3f80659d74eeaa
